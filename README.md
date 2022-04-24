@@ -5,6 +5,14 @@ I am a technology enthusiast, passionate about cybersecurity and software develo
 - 🌱 Always learning and improving!
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lucas-jb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-juarez-barrios/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://lucas-jb.github.io)  
+## Connect with me  
+<div align="center">
+<a href="https://github.com/lucas-jb" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/lucas-juarez-barrios" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-jb&show_icons=true&theme=dracula&hide=stars,issues)
