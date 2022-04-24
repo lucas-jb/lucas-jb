@@ -14,5 +14,8 @@ I am a technology enthusiast, passionate about cybersecurity and software develo
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+<br>
 
+<div align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-jb&show_icons=true&theme=dracula&hide=stars,issues)
+</div>
