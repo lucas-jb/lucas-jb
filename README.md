@@ -22,7 +22,7 @@ I am a technology enthusiast, passionate about cybersecurity and software develo
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt=java width="40px" height="40px" />
 </a>
 <a href="https://www.python.org/" target="_blank">
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg alt=python width="40px" height="40px" />
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="40px" height="40px" />
 </a>
 <a href="https://docs.microsoft.com/es-es/dotnet/csharp/" target="_blank">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg alt=csharp width="40px" height="40px" />
