@@ -17,5 +17,10 @@ I am a technology enthusiast, passionate about cybersecurity and software develo
 <br>
 
 ## Tech Pack
+<div align="center">
+<a href="https://www.java.com/" target="_blank">
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt=java  />
+</a>
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-jb&show_icons=true&theme=dracula&hide=stars,issues)
