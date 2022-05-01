@@ -19,7 +19,7 @@ I am a technology enthusiast, passionate about cybersecurity and software develo
 ## Tech Pack
 <div align="center">
 <a href="https://www.java.com/" target="_blank">
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt=java  />
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt=java width="40px" height="40px" />
 </a>
 <br>
 
