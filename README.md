@@ -39,4 +39,5 @@ I am a technology enthusiast, passionate about cybersecurity and software develo
 </a>
 <br>
 <br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-jb&show_icons=true&theme=dracula&hide=stars,issues)
