@@ -3,7 +3,7 @@
 I am a technology enthusiast, passionate about cybersecurity and software development.
 
 - 🌱 Always learning and improving!
-<img src=https://img.shields.io/github/followers/lucas-jb?style=social alt=github style="margin-bottom: 5px;" />
+![GitHub followers](https://img.shields.io/github/followers/lucas-jb?style=social)
 
 ## Connect with me  
 <div align="center">
