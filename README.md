@@ -1,10 +1,8 @@
-### Hi there 👋, my name is Lucas!
+### Hi there 👋, my name is Lucas! ![GitHub followers](https://img.shields.io/github/followers/lucas-jb?style=social)
 #### Welcome to my GitHub profile
 I am a technology enthusiast, passionate about cybersecurity and software development.
 
 - 🌱 Always learning and improving!<br>
-
-![GitHub followers](https://img.shields.io/github/followers/lucas-jb?style=social)
 
 ## Connect with me  
 <div align="center">
