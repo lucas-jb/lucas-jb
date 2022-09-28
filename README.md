@@ -38,7 +38,7 @@ I am a technology enthusiast, passionate about cybersecurity and software develo
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg alt=bash width="40px" height="40px" />
 </a>
 <a href="https://www.docker.com/" target="_blank">
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg alt=docker width="40px" height="40px" />
+<img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg alt=docker width="40px" height="40px" />
 </a>
 <br>
 <br>
